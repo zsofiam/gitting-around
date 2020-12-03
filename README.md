@@ -20,6 +20,7 @@ You will learn:
     - Executing `git config --get remote.origin.url` in shell in student's repo shows a response that starts with: `git@...`
     - Executing `git fetch` in shell in student's repo doesn't ask for username/password
 
+
 2. Initialize your repository by running the init script - `bash ./helper/init`
     - Executing the command `git branch` in shell gives the following output:
 ```
