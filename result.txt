@@ -1,0 +1,7 @@
+helper	README.md  result.txt  scripts
+helper	README.md  result.txt  scripts
+a  b  c  helper  README.md  result.txt	scripts
+a  b  c  helper  README.md  result.txt	scripts
+a  b  c  helper  README.md  result.txt	scripts
+helper	README.md  result.txt  scripts
+helper	README.md  result  result.txt  scripts
